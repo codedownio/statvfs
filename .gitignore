@@ -6,3 +6,4 @@ test.o
 include/StatVFSConfig.h
 config.log
 config.status
+.stack-work
